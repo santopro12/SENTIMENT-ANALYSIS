@@ -1,0 +1,11 @@
+text,sentiment
+"I love this movie, it was fantastic!",positive
+This is the worst product I have ever bought.,negative
+"Absolutely wonderful experience, highly recommended.",positive
+"Terrible service, I'm never coming back!",negative
+"It was okay, not great but not bad either.",neutral
+"Exceeded my expectations, brilliant!",positive
+"I didn't like it at all, very disappointing.",negative
+The quality is amazing and worth the price.,positive
+"Poor customer support, not satisfied.",negative
+I'm so happy with this purchase!,positive
